@@ -1,0 +1,17 @@
+_______________LAKECITY TICKET COUNTER_______________
+    STATION NAME      DISTANCE (IN Km) STATION CODE
+     ERNAKULAM JN        0           ERS
+    THRISSUR            20          TCR
+    KOZHIKKODE         193          CLT
+    KANNUR             283          CAN
+    MANGALURU JN       419          MAJN
+    MADGAON            850          MAO
+    RATNAGIRI         1184          RN
+    VASAI ROAD        1614          BSR
+    SURAT             1829          ST
+    VADODRA JN        1958          BRC
+    AHMEDABAD JN      2058          ADI
+    RAJKOT JN         2304          RJT
+    HAPA              2380          HAPA
+    OKHA              2557          OKHA
+   
